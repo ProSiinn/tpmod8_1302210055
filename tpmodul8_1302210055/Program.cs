@@ -7,7 +7,7 @@ using System.IO;
 using System.Text.Json;
 using Newtonsoft.Json;
 
-namespace tpmodul8_1302213120
+namespace tpmodul8_1302210055
 {
     class CovidConfig
     {
