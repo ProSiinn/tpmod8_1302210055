@@ -1,0 +1,17 @@
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\tpmodul8_1302210055.csproj.AssemblyReference.cache
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\tpmodul8_1302210055.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\tpmodul8_1302210055.AssemblyInfoInputs.cache
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\tpmodul8_1302210055.AssemblyInfo.cs
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\tpmodul8_1302210055.csproj.CoreCompileInputs.cache
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\bin\Debug\net6.0\tpmodul8_1302210055.exe
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\bin\Debug\net6.0\tpmodul8_1302210055.deps.json
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\bin\Debug\net6.0\tpmodul8_1302210055.runtimeconfig.json
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\bin\Debug\net6.0\tpmodul8_1302210055.dll
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\bin\Debug\net6.0\tpmodul8_1302210055.pdb
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\tpmodul8_1302210055.csproj.CopyComplete
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\tpmodul8_1302210055.dll
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\refint\tpmodul8_1302210055.dll
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\tpmodul8_1302210055.pdb
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\tpmodul8_1302210055.genruntimeconfig.cache
+D:\Praktek Smstr 4\KPL\tpmodul8_1302210055\tpmodul8_1302210055\obj\Debug\net6.0\ref\tpmodul8_1302210055.dll
